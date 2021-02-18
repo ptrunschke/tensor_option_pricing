@@ -15,6 +15,11 @@ Execute the script to replicate the corresponding numerical experiment.
 
 - numpy
 - scipy
-- xerus (branch: `SALSA`)
+- [xerus](https://libxerus.org/) (branch: `SALSA`)
 - matplotlib
 - rich
+
+You can run the accompanying bash script to install all dependencies in a new `conda` environment.
+```
+bash install.sh <env_name>
+```
