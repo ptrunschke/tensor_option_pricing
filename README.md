@@ -25,5 +25,5 @@ bash install.sh <env_name>
 ```
 To install the dependencies in an existing `conda` environment you can execute the following command in the activated environment.
 ```
-conda install -c conda-froge -c ptrunschke numpy scipy xerus_conda matplotlib rich
+conda install -c conda-forge -c ptrunschke numpy scipy xerus_conda matplotlib rich
 ```
